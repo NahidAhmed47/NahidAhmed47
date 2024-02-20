@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nahid Ahmed</h1>
-<h3 align="center">A passionate full-stack web developer from Bangladesh</h3>
+<h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahidahmed47&label=Profile%20views&color=0e75b6&style=flat" alt="nahidahmed47" /> </p>
 
-- 🌱 I’m currently learning **Web Applications Development**
+- 🌱 I’m currently learning **Angular.js**
 
-- 💬 Ask me about **JavaScript, ES6, ReactJs, NextJS, TypeScript, Redux etc.**
+- 💬 Ask me about **JavaScript, ES6, TypeScript, React.js, Next.js, Redux etc.**
 
 - 📫 How to reach me **nahidahmedsd47@gmail.com**
 
-- 📄 Here is my resume [https://drive.google.com/file/d/1vJdOzP41EjfAUNIZ156lAha6oMjbUR-b/view?usp=sharing](https://drive.google.com/file/d/1vJdOzP41EjfAUNIZ156lAha6oMjbUR-b/view?usp=sharing)
+- 📄 Here is my resume [https://drive.google.com/file/d/1M3l_AyXSCIX1CzYT7MkZ_IkjprfcR0r6/view?usp=sharing](Drive link)
 
 - ⚡ Fun fact **I don't code in project I code my career.**
 
